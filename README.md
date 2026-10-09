@@ -1,2 +1,2 @@
-# -Physics-tutor
-Learn physics at your oen phase
+Physics-tutor
+Learn physics at your own phase
